@@ -3,6 +3,10 @@ This repository has the Open Data CSV file for West Suffolk Council Purchase Ord
 
 West Suffolk Council publishes purchase orders for goods and services from suppliers that are for more than £5,000.
 
+## Open Data
+
+The Open Data is available in the data.csv file.
+
 ## License
 Open Government Licence (OGL)
 https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/
